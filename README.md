@@ -1,5 +1,7 @@
 # Zines
 
+Note that these zines are letter sized printed landscape with no margins.
+
 ## [Dice Stats](DiceStatsZine.html)
 
 Target `2D6` and `3D6` and Success `X+ nD6` probabilities.
